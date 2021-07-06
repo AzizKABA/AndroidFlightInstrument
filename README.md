@@ -21,21 +21,45 @@ App supports two languages: TR and EN that switches automatically.
 
 
 Aziz KABA
+
+azizkb@gmail.com
+
 18/05/2020
 
-/*********************************************************************************************************************************************************/
+/*********************************************************************************************************************************************/
 
 Following references, websites and figures are used during the design and coding phases and author is grateful for their help!
 
 https://www.androidcode.ninja/android-compass-code-example/
+
 https://github.com/apps4av/ifi
+
 https://commons.wikimedia.org/wiki/File:Horizontal_Situation_Indicator.svg
 
+
 https://stackoverflow.com/questions/25380056/setting-screenorientation-to-portrait-doesnt-work/25380180
+
 https://stackoverflow.com/questions/46713418/android-studio-settext-with-string-set-in-code
+
 https://stackoverflow.com/questions/33164886/android-textview-do-not-concatenate-text-displayed-with-settext
+
 https://stackoverflow.com/questions/4774087/float-precision-display-android
+
 https://developer.android.com/guide/topics/resources/more-resources
+
 https://developer.android.com/guide/topics/sensors/sensors_position
 
-/*********************************************************************************************************************************************************/
+
+/*********************************************************************************************************************************************/
+
+Some screenshots from different designs:
+
+
+![1 (1)](https://user-images.githubusercontent.com/67108816/124583334-9c43a080-de5b-11eb-93cd-a1c96c9646be.jpg)
+
+![1 (2)](https://user-images.githubusercontent.com/67108816/124583345-9ea5fa80-de5b-11eb-9a5c-1bb6f915fcd5.jpg)
+
+![1 (9)](https://user-images.githubusercontent.com/67108816/124583349-9f3e9100-de5b-11eb-87e2-d13e62ec4379.jpg)
+
+![1 (13)](https://user-images.githubusercontent.com/67108816/124583351-9fd72780-de5b-11eb-98b4-94493aaacae9.jpg)
+
