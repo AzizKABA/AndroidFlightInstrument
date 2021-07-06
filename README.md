@@ -15,7 +15,7 @@ An aircraft figure is selected as the needle.
 
 Exact heading is also given numerically inside the app.
 
-UI of the application is minimalist with black background.
+UI of the application is minimalist with black background and size of the elements are responsive to the phone screen size.
 
 App supports two languages: TR and EN that switches automatically.
 
@@ -52,7 +52,7 @@ https://developer.android.com/guide/topics/sensors/sensors_position
 
 /*********************************************************************************************************************************************/
 
-Some screenshots from different designs:
+Some screenshots from different designs: (please click for real size)
 
 
 ![1 (1)](https://user-images.githubusercontent.com/67108816/124583334-9c43a080-de5b-11eb-93cd-a1c96c9646be.jpg)
